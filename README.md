@@ -59,4 +59,15 @@ SaaS model allows to use software applications as a service to end-users.
 
 A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
 
+* Kubernertes
+* CNCF
+* StakeHolders
+
+
+* Required Tools and Dependencies :
+1. Python (modules - Flask / Virtual environment)
+2. Git
+3. Docker
+4. Vagrant
+5. VirtualBox(6.1.16 or higher)
 
