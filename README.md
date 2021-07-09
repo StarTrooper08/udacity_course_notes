@@ -59,9 +59,23 @@ SaaS model allows to use software applications as a service to end-users.
 
 A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
 
-* Kubernertes
+* Kubernetes
+Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.
 * CNCF
 * StakeHolders
+An engineering team can use cloud-native tooling to enable quick delivery of value to customers and easily extend to new features and technologies. These are the main reasons why an organization needs to adopt cloud-native technologies. However, when trialing cloud-native tooling, there are two main perspectives to address: business and technical stakeholders.
+
+From a business perspective, the adoption of cloud-native tooling represents:
+
+Agility - perform strategic transformations
+Growth - quickly iterate on customer feedback
+Service availability - ensures the product is available to customers 24/7
+From a technical perspective, the adoption of cloud-native tooling represents:
+
+Automation - release a service without human intervention
+Orchestration - introduce a container orchestrator to manage thousands of services with minimal effort
+Observability - ability to independently troubleshoot and debug each component
+
 
 
 * Required Tools and Dependencies :
@@ -70,4 +84,6 @@ A container is a standard unit of software that packages up code and all its dep
 3. Docker
 4. Vagrant
 5. VirtualBox(6.1.16 or higher)
+
+
 
